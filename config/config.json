@@ -1,0 +1,19 @@
+{
+  "development": {
+    "username": "root",
+    "password": "root",
+    "database": "todo-api",
+    "host": "localhost",
+    "dialect": "mysql",
+    "dialectOptions": {
+      "socketPath": "/Applications/MAMP/tmp/mysql/mysql.sock"
+    }
+  },
+  "production": {
+    "username": "b37190edabe1fd",
+    "password": "2dfdd737",
+    "database": "heroku_469eae170a7dda8",
+    "host": "us-cdbr-east-05.cleardb.net",
+    "dialect": "mysql"
+  }
+}
